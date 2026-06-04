@@ -16,7 +16,6 @@
 <img width="1389" height="655" alt="image" src="https://github.com/user-attachments/assets/bdb55d44-576e-4097-90f6-5d9b1a48e3f5" />
 
 ## Business Questions
-- Which factors most strongly drive customer churn across usage, payments and support?
 - Which customer segments show the highest churn risk?
 - At what point do payment delays significantly increase churn likelihood?
 - How does usage intensity affect long-term retention?
@@ -27,10 +26,8 @@
 - Which high-value segments contribute most to churn-driven revenue loss?
 - How effective are current pricing and subscription models in retention?
 - Which operational issues are linked to higher churn?
-- What actions can best reduce churn in high-risk groups?
 
 ## Key Insights
-- 64,374 customers analyzed with a 47.4% churn rate — nearly half the base is lost.
 - Churned users represent ~$15.8M in lost revenue - a major revenue leak.
 - Female customers churn more (55.0%) than males (38.6%) indicating possible engagement gap.
 - Age has little impact on churn, behavior matters more than demographics.
