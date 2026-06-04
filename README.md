@@ -11,7 +11,9 @@
 - Tableau (interactive dashboards and data visualization)
 
 ## Dashboard
+<img width="1394" height="666" alt="image" src="https://github.com/user-attachments/assets/93e94449-9df1-42c2-b5eb-7fff770b5715" />
 
+<img width="1389" height="655" alt="image" src="https://github.com/user-attachments/assets/bdb55d44-576e-4097-90f6-5d9b1a48e3f5" />
 
 ## Business Questions
 - Which factors most strongly drive customer churn across usage, payments and support?
