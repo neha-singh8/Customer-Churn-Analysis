@@ -28,6 +28,7 @@
 - Which operational issues are linked to higher churn?
 
 ## Key Insights
+- 64,374 customers analyzed, with 30,493 customers churned. Overall churn rate is 47.4% 
 - Churned users represent ~$15.8M in lost revenue - a major revenue leak.
 - Female customers churn more (55.0%) than males (38.6%) indicating possible engagement gap.
 - Age has little impact on churn, behavior matters more than demographics.
