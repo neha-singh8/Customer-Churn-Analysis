@@ -11,9 +11,8 @@
 - Tableau (interactive dashboards and data visualization)
 
 ## Dashboard
-<img width="1394" height="666" alt="image" src="https://github.com/user-attachments/assets/93e94449-9df1-42c2-b5eb-7fff770b5715" />
-
-<img width="1389" height="655" alt="image" src="https://github.com/user-attachments/assets/bdb55d44-576e-4097-90f6-5d9b1a48e3f5" />
+<img width="1404" height="669" alt="image" src="https://github.com/user-attachments/assets/e015da49-151c-457f-a3d3-f47362d9e186" />
+<img width="1390" height="666" alt="image" src="https://github.com/user-attachments/assets/5da6e7a4-c774-4834-b8bc-947449b04cb5" />
 
 ## Business Questions
 - Which customer segments show the highest churn risk?
